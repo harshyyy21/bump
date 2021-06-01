@@ -1,0 +1,27 @@
+Overview: 
+
+Bump is a social media app where users are sent notifications (bumps)
+whenever they are in the same vicinity as one of their friends
+
+
+Requirements: 
+
+Track users location (allow forever, when using the app, or only once)
+
+Have a profile page
+ - will contain users previous bumps
+ - friends can interact with the bumps (comment, like, etc)
+ - show list of friends 
+   - friends != followers, if you add someone and they accept they're considered your friend (so you cant follow someone and not have them follow you as you see in insta and twitter)
+
+Add other users as friends
+ - can search by username or email?
+
+Allow configurations for bumps
+ - distance user can bump
+ - number of times you can bump into the same person
+ - frequency of when the app checks your location for potential bump?
+
+Feed page (home page):
+ - show friends bump history and interactions
+
